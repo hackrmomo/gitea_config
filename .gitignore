@@ -1,0 +1,5 @@
+gitea/git
+gitea/gitea/*
+gitea/ssh
+!gitea/gitea/conf
+mysql
